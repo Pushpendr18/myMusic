@@ -1,0 +1,10 @@
+ <li><img class="invert" src="music.svg" alt="">
+                <div class="info">
+                    <div>Song Name</div>
+                    <div>Song Artist</div>
+                </div>
+                <div class="playnow">
+                    <span>Play now</span>
+                    <img class="invert" src="songs/playsong.svg" alt="">
+                </div>
+            </li>
